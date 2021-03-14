@@ -2,7 +2,7 @@
 <p align='center'><img align='center' width='240px' src='Konichiwa.png'></img></p>
 <hr/>
 
-**Languages I know:** Python 🐍, HTML & CSS (basics)
+**Languages I know:** Python 🐍, Bash, HTML & CSS (basics)
 
 **Languages I want to learn:** Lua, C, Rust
 
@@ -28,10 +28,12 @@
 
 <details>
   <summary> Fonts I like 🖋️ </summary>
+  <br/>
   <p> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
 </details>
 
 <details>
   <summary> Profile Stats </summary>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/?username=MetaStag&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
 </details>
