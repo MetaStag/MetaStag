@@ -1,5 +1,5 @@
 <h4 align='center'>Hi there, Im MetaStag 👋</h4>
-<img align='center' width='360px' src='Konichiwa.png'></img>
+<p align='center'><img align='center' width='240px' src='Konichiwa.png'></img></p>
 <hr/>
 
 **Languages I know:** Python 🐍, HTML & CSS (basics)
@@ -21,9 +21,15 @@
   - **Text Editor:** Neovim 🗒️
 
 
-**Hobbies 🎮:** Programming, watching anime & sitcoms, casual gaming and occasionally reading some books
+<details>
+  <summary> Hobbies 🎮 </summary>
+  <p> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
+</details>
 
-**Fonts I like 🖋️:** JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print
+<details>
+  <summary> Fonts I like 🖋️ </summary>
+  <p> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
+</details>
 
 <details>
   <summary> Profile Stats </summary>
