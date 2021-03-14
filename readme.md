@@ -1,4 +1,4 @@
-<h4 align='center'>Hi there, Im MetaStag 👋</h4>
+<h3 align='center'>Hi there, Im MetaStag 👋</h3>
 <p align='center'><img align='center' width='300px' src='Konichiwa.png'></img></p>
 <hr/>
 
@@ -25,12 +25,14 @@
   <summary> Hobbies 🎮 </summary>
   <br/>
   <p> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
+  <br/>
 </details>
 
 <details>
   <summary> Fonts I like 🖋️ </summary>
   <br/>
   <p> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
+  <br/>
 </details>
 
 <details>
