@@ -2,7 +2,7 @@
 <p align='center'><img align='center' width='360px' src='Konichiwa.png'></img></p>
 <hr/>
 
-**Languages I know:** Python, Bash, HTML & CSS (basics)
+**Languages I know:** Python, HTML & CSS (basics)
 
 **Languages I want to learn:** Lua, C, Rust
 
@@ -24,13 +24,13 @@
 <details>
   <summary> Hobbies 🎮 </summary>
   <br/>
-  <p align='center'> - Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
+  <p align='center'> -> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
 </details>
 
 <details>
   <summary> Fonts I like 🖋️ </summary>
   <br/>
-  <p align='center'> - JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
+  <p align='center'> -> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
 </details>
 
 <details>
