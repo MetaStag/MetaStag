@@ -6,20 +6,22 @@
 
 **Languages I want to learn:** Lua, C, Rust
 
-**Goals for this year 🥅:**
-  - Use AwesomeWM
-  - Learn C 📝
-  - Make a game with RPG Maker 🎮
-  - Do some GBA programming 🎮
-  - Learn Rust 📝
-  - Try out PopOS 💻
-  - Install ArchLinux 🕶️
+<details>
+  <summary> Gaols </summary>
+  **Goals for this year 🥅:**
+    - Use AwesomeWM
+    - Learn C 📝
+    - Make a game with RPG Maker 🎮
+    - Do some GBA programming 🎮
+    - Learn Rust 📝
+    - Try out PopOS 💻
+    - Install ArchLinux 🕶️
 
-**Tools I use:**
-  - **Distro:** ArcoLinux 💻
-  - **WM:**  Qtile
-  - **Text Editor:** Neovim 🗒️
- 
+  **Tools I use:**
+    - **Distro:** ArcoLinux 💻
+    - **WM:**  Qtile
+    - **Text Editor:** Neovim 🗒️
+ </details>
 
 **Hobbies 🎮:** Programming, watching anime & sitcoms, casual gaming and occasionally reading some books
 
