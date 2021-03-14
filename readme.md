@@ -1,27 +1,25 @@
 <h4 align='center'>Hi there, Im MetaStag 👋</h4>
-<img width='480px' src='Konichiwa.png'></img>
+<img align='center' width='360px' src='Konichiwa.png'></img>
 <hr/>
 
 **Languages I know:** Python 🐍, HTML & CSS (basics)
 
 **Languages I want to learn:** Lua, C, Rust
 
-<details>
-  <summary> Gaols </summary>
-  **Goals for this year 🥅:**
-    - Use AwesomeWM
-    - Learn C 📝
-    - Make a game with RPG Maker 🎮
-    - Do some GBA programming 🎮
-    - Learn Rust 📝
-    - Try out PopOS 💻
-    - Install ArchLinux 🕶️
+**Goals for this year 🥅:**
+  - Use AwesomeWM
+  - Learn C 📝
+  - Make a game with RPG Maker 🎮
+  - Do some GBA programming 🎮
+  - Learn Rust 📝
+  - Try out PopOS 💻
+  - Install ArchLinux 🕶️
 
-  **Tools I use:**
-    - **Distro:** ArcoLinux 💻
-    - **WM:**  Qtile
-    - **Text Editor:** Neovim 🗒️
- </details>
+**Tools I use:**
+  - **Distro:** ArcoLinux 💻
+  - **WM:**  Qtile
+  - **Text Editor:** Neovim 🗒️
+
 
 **Hobbies 🎮:** Programming, watching anime & sitcoms, casual gaming and occasionally reading some books
 
