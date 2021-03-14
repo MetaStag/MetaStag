@@ -1,8 +1,8 @@
 <h4 align='center'>Hi there, Im MetaStag 👋</h4>
-<p align='center'><img align='center' width='240px' src='Konichiwa.png'></img></p>
+<p align='center'><img align='center' width='300px' src='Konichiwa.png'></img></p>
 <hr/>
 
-**Languages I know:** Python 🐍, Bash, HTML & CSS (basics)
+**Languages I know:** Python, Bash, HTML & CSS (basics)
 
 **Languages I want to learn:** Lua, C, Rust
 
@@ -23,6 +23,7 @@
 
 <details>
   <summary> Hobbies 🎮 </summary>
+  <br/>
   <p> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
 </details>
 
