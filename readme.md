@@ -30,7 +30,7 @@
 <details>
   <summary> Fonts I like 🖋️ </summary>
   <br/>
-  <p align='center'> -   JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
+  <p align='center'> - JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
 </details>
 
 <details>
