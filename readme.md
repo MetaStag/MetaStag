@@ -1,11 +1,12 @@
 <h4 align='center'>Hi there, Im MetaStag 👋</h4>
-<img src='Konichiwa.png'></img>
----
+<img width='480px' src='Konichiwa.png'></img>
+<hr/>
 
 **Languages I know:** Python 🐍, HTML & CSS (basics)
+
 **Languages I want to learn:** Lua, C, Rust
 
-Goals for this year 🥅:
+**Goals for this year 🥅:**
   - Use AwesomeWM
   - Learn C 📝
   - Make a game with RPG Maker 🎮
@@ -18,8 +19,10 @@ Goals for this year 🥅:
   - **Distro:** ArcoLinux 💻
   - **WM:**  Qtile
   - **Text Editor:** Neovim 🗒️
-  - 
+ 
+
 **Hobbies 🎮:** Programming, watching anime & sitcoms, casual gaming and occasionally reading some books
+
 **Fonts I like 🖋️:** JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print
 
 <details>
