@@ -1,6 +1,6 @@
 <style>
 .text {
-  text-indent: 50px
+  margin-left: 50px;
 }
 </style>
 
