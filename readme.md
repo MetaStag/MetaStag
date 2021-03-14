@@ -24,13 +24,13 @@
 <details>
   <summary> Hobbies 🎮 </summary>
   <br/>
-  <p style='margin-left: 40px'> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
+  <p style='text-indent: 40px'> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
 </details>
 
 <details>
   <summary> Fonts I like 🖋️ </summary>
   <br/>
-  <p style='margin-left: 40px'> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
+  <p style='text-indent: 40px'> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Segoe Script & Segoe Print </p>
 </details>
 
 <details>
