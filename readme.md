@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there, Im MetaStag 👋</h3>
-<p align='center'><img align='center' width='360px' src='Konichiwa.png'></img></p>
+<p align='center'><img align='center' width='360px' src='code.png'></img></p>
 <hr/>
 
 **Languages I know:** Python, HTML & CSS (basics)
