@@ -1,5 +1,5 @@
 <h3 align='center'>Hlo there, Im MetaStag 👋</h3>
-<p align='center'><img align='center' width='360px' src='code_block.png'></img></p>
+<p align='center'><img align='center' width='500px' src='code_block.png'></img></p>
 <hr/>
 
 **Languages I know:** Lua, Python, Brainf\*\*k, LOLCODE, Bash (basics)
@@ -42,15 +42,15 @@
 <details>
   <summary>Code stuff I like 🖋️ </summary>
   <br/>
-  <p align='center'> **Text Editors** -> Neovim, Atom, led</p>
-  <p align='center'> **Themes** -> Tokyo Night Storm, Nord, One Dark, Palenight</p>
-  <p align='center'> **Fonts** -> JetBrains Mono, Cascadia Code, Fantasque Sans Mono, Fira Code, Kungfont </p>
+  <p><b>Text Editors</b> -> Neovim, Atom, led</p>
+  <p><b>Themes</b> -> Tokyo Night Storm, Nord, One Dark, Palenight</p>
+  <p><b>Fonts</b> -> JetBrains Mono, Cascadia Code, Fantasque Sans Mono, Fira Code, Kungfont</p>
 </details>
 
 <details>
   <summary>Hobbies 🎮 </summary>
   <br/>
-  <p align='center'> -> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
+  <p align='center'>Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
 </details>
 
 <details>
