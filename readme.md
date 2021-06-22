@@ -1,26 +1,44 @@
-<h3 align='center'>Hi there, Im MetaStag 👋</h3>
+<h3 align='center'>Hlo there, Im MetaStag 👋</h3>
 <p align='center'><img align='center' width='360px' src='code.png'></img></p>
 <hr/>
 
-**Languages I know:** Python, HTML & CSS (basics)
+**Languages I know:** Lua, Python, Brainf**k, LOLCODE, Bash (basics)
 
-**Languages I want to learn:** Lua, C, Rust
+**Language Im learning:** C
 
-**Goals for this year 🥅:**
-  - [x] Use AwesomeWM
-  - [ ] Learn C 📝
-  - [ ] Make a game with RPG Maker 🎮
-  - [ ] Do some GBA programming 🎮
-  - [ ] Learn Rust 📝
-  - [ ] Try out PopOS 💻
-  - [ ] Install ArchLinux 🕶️
+**Languages I want to learn:** Rust/Go
 
-**Tools I use:**
-  - **Distro:** ArcoLinux 💻
-  - **WM:**  Awesome
+---
+
+**Currently using:**
+  - **Distro:** ArcoLinux
+  - **WM:** Awesome
   - **Text Editor:** Neovim
 
+**Projects for this year 🥅:**
+  - [x] Get into Linux 🖥️
+  - [x] Work with APIs
+  - [x] Learn Lua
+  - [x] Discord bot programming 🤖
+  - [ ] Make a full-fledged line editor (led doesn't have all the features) 🗒️
+  - [ ] Make a game with RPG Maker 🎮
+  - [ ] Do some GBA programming 🎮
+  - [ ] TUI dev
+  - [ ] Learn GUI dev using gtk or something else and make a Music Player 🎵
 
+**Distros I want to try 💻:**
+  - [ ] PopOS
+  - [ ] Arch (vanilla)
+  - [ ] ArchCraft
+  - [ ] Artix
+
+**Standalone wms i want to try:**
+  - [x] AwesomeWM
+  - [ ] BSPWM
+  - [ ] Openbox/Fluxbox
+  - [ ] Fvvm
+
+---
 <details>
   <summary> Hobbies 🎮 </summary>
   <br/>
@@ -30,7 +48,7 @@
 <details>
   <summary> Fonts I like 🖋️ </summary>
   <br/>
-  <p align='center'> -> JetBrains Mono, Fira Code, Fantasque Sans Mono, Montserrat, Lato, Kungfont, Segoe Script & Segoe Print </p>
+  <p align='center'> -> JetBrains Mono, Fira Code, Fantasque Sans Mono, Cascadia Code, Kungfont </p>
 </details>
 
 <details>
