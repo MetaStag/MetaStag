@@ -1,5 +1,5 @@
 <h3 align='center'>Hlo there, Im MetaStag 👋</h3>
-<p align='center'><img align='center' width='360px' src='code.png'></img></p>
+<p align='center'><img align='center' width='360px' src='code_block.png'></img></p>
 <hr/>
 
 **Languages I know:** Lua, Python, Brainf\*\*k, LOLCODE, Bash (basics)
