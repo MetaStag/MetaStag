@@ -2,7 +2,7 @@
 <p align='center'><img align='center' width='360px' src='code.png'></img></p>
 <hr/>
 
-**Languages I know:** Lua, Python, Brainf**k, LOLCODE, Bash (basics)
+**Languages I know:** Lua, Python, Brainf\*\*k, LOLCODE, Bash (basics)
 
 **Language Im learning:** C
 
@@ -40,19 +40,21 @@
 
 ---
 <details>
-  <summary> Hobbies 🎮 </summary>
+  <summary>Code stuff I like 🖋️ </summary>
+  <br/>
+  <p align='center'> **Text Editors** -> Neovim, Atom, led</p>
+  <p align='center'> **Themes** -> Tokyo Night Storm, Nord, One Dark, Palenight</p>
+  <p align='center'> **Fonts** -> JetBrains Mono, Cascadia Code, Fantasque Sans Mono, Fira Code, Kungfont </p>
+</details>
+
+<details>
+  <summary>Hobbies 🎮 </summary>
   <br/>
   <p align='center'> -> Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
 </details>
 
 <details>
-  <summary> Fonts I like 🖋️ </summary>
-  <br/>
-  <p align='center'> -> JetBrains Mono, Fira Code, Fantasque Sans Mono, Cascadia Code, Kungfont </p>
-</details>
-
-<details>
-  <summary> Profile Stats </summary>
+  <summary>Profile Stats </summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/?username=MetaStag&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
 </details>
