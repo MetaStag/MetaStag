@@ -11,8 +11,8 @@
 ---
 
 **Currently using:**
-  - **Distro:** ArcoLinux
-  - **WM:** Awesome
+  - **Distro:** Linux Mint
+  - **WM:** Xfwm4 (temp)
   - **Text Editor:** Neovim
 
 **Projects for this year 🥅:**
@@ -27,7 +27,7 @@
   - [ ] Learn GUI dev using gtk or something else and make a Music Player 🎵
 
 **Distros I want to try 💻:**
-  - [ ] PopOS
+  - [x] P̸o̸p̸O̸S (had problems with sysdboot) Linux Mint
   - [ ] Arch (vanilla)
   - [ ] ArchCraft
   - [ ] Artix
@@ -44,7 +44,7 @@
   <br/>
   <p><b>Text Editors</b> -> Neovim, Atom, led</p>
   <p><b>Themes</b> -> Tokyo Night Storm, Nord, One Dark, Palenight</p>
-  <p><b>Fonts</b> -> JetBrains Mono, Cascadia Code, Fantasque Sans Mono, Fira Code, Kungfont</p>
+  <p><b>Fonts</b> -> Victor Mono, Chilanka, JetBrains Mono, Cascadia Code, Kungfont</p>
 </details>
 
 <details>
