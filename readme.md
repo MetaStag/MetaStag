@@ -1,19 +1,12 @@
-<h3 align='center'>Hlo there, Im MetaStag 👋</h3>
-<p align='center'><img align='center' width='500px' src='code_block.png'></img></p>
-<hr/>
+<p align='center'><img width='500px' src='code_block.png'></p>
 
-**Languages I know:** Lua, Python, Brainf\*\*k, LOLCODE, Bash (basics)
+**Languages I know:** Lua, Python, Brainfuck, LOLCODE, Bash (basics), English
 
 **Language Im learning:** C
 
 **Languages I want to learn:** Rust/Go
 
 ---
-
-**Currently using:**
-  - **Distro:** Linux Mint
-  - **WM:** Xfwm4 (temp)
-  - **Text Editor:** Neovim
 
 **Projects for this year 🥅:**
   - [x] Get into Linux 🖥️
@@ -23,8 +16,8 @@
   - [ ] Make a full-fledged line editor (led doesn't have all the features) 🗒️
   - [ ] Make a game with RPG Maker 🎮
   - [ ] Do some GBA programming 🎮
+  - [ ] Chip8 Emulator (might be too hard but worth a try :/
   - [ ] TUI dev
-  - [ ] Learn GUI dev using gtk or something else and make a Music Player 🎵
 
 **Distros I want to try 💻:**
   - [x] P̸o̸p̸O̸S (had problems with sysdboot) Linux Mint
@@ -39,22 +32,4 @@
   - [ ] Fvvm
 
 ---
-<details>
-  <summary>Code stuff I like 🖋️ </summary>
-  <br/>
-  <p><b>Text Editors</b> -> Neovim, Atom, led</p>
-  <p><b>Themes</b> -> Tokyo Night Storm, Nord, One Dark, Palenight</p>
-  <p><b>Fonts</b> -> Victor Mono, Chilanka, JetBrains Mono, Cascadia Code, Kungfont</p>
-</details>
-
-<details>
-  <summary>Hobbies 🎮 </summary>
-  <br/>
-  <p align='center'>Programming, watching anime & sitcoms, casual gaming and occasionally reading some books </p>
-</details>
-
-<details>
-  <summary>Profile Stats </summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/?username=MetaStag&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
-</details>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/?username=MetaStag&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" /></p>
