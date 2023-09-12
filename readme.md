@@ -1,4 +1,4 @@
-<img width='49%' height='279' src='https://64.media.tumblr.com/b7c583982216176eeea5baa9f8047b2e/da53faf1957583bf-cf/s500x750/4362a1f0679ccab9ab578c6e3917ac4925c4b462.gifv'>
+<img width='49%' height='279' src='https://img1.picmix.com/output/stamp/normal/6/0/5/9/1529506_11d38.gif](https://media.tenor.com/aPvZiH2bQHQAAAAM/alone-middle-of-the-ocean.gif'>
 
 <p align='center'>MetaStag, developer.</p>
 
